@@ -1,0 +1,11 @@
+{
+    "description": "TESTPAGE-DOMAIN",
+    "repo": "https://github.com/XnonCorp/TESTPAGE",
+    "owner": {
+        "username": "XnonCorp",
+        "email": "faridbagusid@gmail.com"
+    },
+    "records": {
+        "CNAME": "xc.is-a.dev"
+    }
+}
